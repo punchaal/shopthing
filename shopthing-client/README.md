@@ -1,3 +1,12 @@
+## Median Prime Finder
+
+The app is designed to display the median values of prime numbers derived from the upper value of a given set.
+
+## Limitations
+
+The app can only produce results for an upperlimit of a maximum value of 1,000,000 beyond which it crashes as it would exceed the
+amount of memory available to the Javascript execution machine
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
