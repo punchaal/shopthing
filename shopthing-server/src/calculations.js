@@ -1,4 +1,4 @@
-let primeMedians = function(n) {
+let primeMedians = n => {
   // Eratosthenes algorithm to find all primes under n
   let array = [],
     upperLimit = Math.sqrt(n),

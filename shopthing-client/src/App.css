@@ -1,0 +1,43 @@
+.app {
+  text-align: center;
+}
+
+.input {
+  width: 400px;
+  margin-top: 50px;
+}
+
+.app-name {
+  color: red;
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.input-form {
+  margin-top: 50px;
+}
+
+.results {
+  color: red;
+  margin-top: 50px;
+}
+
+.results-digits {
+  color: red;
+  font-weight: bolder;
+}
+
+.input-digit {
+  font-weight: bolder;
+}
+
+.warning {
+  color: red;
+  font-weight: bolder;
+}
+
+.error {
+  color: red;
+  font-weight: bolder;
+}
